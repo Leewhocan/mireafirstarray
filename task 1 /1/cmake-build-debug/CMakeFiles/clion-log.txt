@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/lee/CLionProjects/mireafirstarray/task 1 /1 Select CMakeLists.txt
